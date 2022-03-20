@@ -11,7 +11,7 @@
     <img align="center" alt="Igor-Spring" height="100" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> 
      <img align="center" alt="Igor-Python" height="100" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
    <img align="center" alt="Igor-Django" height="100" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"> 
-   <img align="center" alt="Igor-Flask" height="100" width="40" src="https://i.ibb.co/j3Z3QP1/flask.png"/>
+   <img align="center" alt="Igor-Flask" height="100" width="100" src="https://i.ibb.co/j3Z3QP1/flask.png"/>
    <img align="center" alt="Igor-Kotlin" height="100" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Igor-HTML" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
